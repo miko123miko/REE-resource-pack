@@ -1,1 +1,1 @@
-# REE-resource-pack
+#1.8 Hence resource pack
